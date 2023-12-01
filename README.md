@@ -15,5 +15,5 @@ I'm a Software Engineer. I'm passionate about sharing knowledge, documentation, 
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Olagoke's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Olagoke1234&show_icons=true&include_all_commits=true&hide_border=true" alt="Olagoke's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olagoke1234&langs_count=8&layout=compact&hide_border=true" alt="Olagoke's GitHub stats" /> |
 | ------------- | ------------- |
